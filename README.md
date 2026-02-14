@@ -1,4 +1,4 @@
-# 건축 레퍼런스 Pinterest 웹사이트
+# 건축 레퍼런스 웹사이트
 
 Midjourney로 생성된 건축 이미지들을 효율적으로 관리하고 탐색할 수 있는 AI 기반 레퍼런스 갤러리입니다.
 
@@ -112,3 +112,4 @@ architecture-reference-site/
 ## 라이센스
 
 MIT
+
