@@ -1,0 +1,64 @@
+{
+  "timestamp": "2026-02-12T16:01:05.396655",
+  "total_images_scanned": 1638,
+  "exact_duplicates_count": 0,
+  "similar_duplicates_count": 10,
+  "exact_duplicates": {},
+  "similar_duplicates": {
+    "93ad8cd246666667": {
+      "original": "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_view_of_Mies_van_der_Rohes_house_above_the_mi_4f3c40d2-1433-4522-b02c-769a180ce720_0.png",
+      "similar_images": [
+        "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_view_of_Mies_van_der_Rohes_house_above_the_mi_4f3c40d2-1433-4522-b02c-769a180ce720_3.png"
+      ]
+    },
+    "b68986caccca78b5": {
+      "original": "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_view_of_Mies_van_der_Rohes_house_above_the_mi_b6b1ec33-3a79-41d6-a808-af868ca9f7d9_1.png",
+      "similar_images": [
+        "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_a_little_cloud_--ar_9151_--v_6.1_851279c9-37ac-4515-9890-88547a0b867f_2.png",
+        "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_a_little_cloud_--ar_9151_--v_6.1_c919ca7b-f9fe-4bb0-80da-503e9d8fa38b.png"
+      ]
+    },
+    "9fd4201cbdbd2463": {
+      "original": "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_futuristic_construction_site_with_autonomous_ro_08221125-f2ae-4246-b724-d5663da29e62.png",
+      "similar_images": [
+        "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_futuristic_construction_site_with_autonomous__961c5d1f-e46c-4f3f-8859-849332eb3205_0.png"
+      ]
+    },
+    "921b6acdab9b6324": {
+      "original": "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_futuristic_construction_site_with_autonomous__961c5d1f-e46c-4f3f-8859-849332eb3205_1.png",
+      "similar_images": [
+        "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_futuristic_construction_site_with_autonomous_ro_38b1ec30-1ae4-4b65-82c6-8b665e314750.png"
+      ]
+    },
+    "e9f0ba8b33c18d54": {
+      "original": "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_view_of_a_Mies_van_der_Rohe_house_in_a_calm_f_89de14cc-03f5-4d11-8589-14fdad267af4_2.png",
+      "similar_images": [
+        "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_view_of_a_Mies_van_der_Rohe_house_in_a_calm_for_b3febaf6-0fde-4450-b8b0-93998d9fba5b.png"
+      ]
+    },
+    "b689573299c46b35": {
+      "original": "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_view_of_Mies_van_der_Rohes_house_above_the_mi_1c4b40c2-2fba-4cca-a5b2-fb3da37fa7f1_0.png",
+      "similar_images": [
+        "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_view_of_Mies_van_der_Rohes_house_above_the_migh_b909c4f9-1645-44f9-b3b7-9553029e7b32.png"
+      ]
+    },
+    "b6a9b53a84859a37": {
+      "original": "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_view_of_Mies_van_der_Rohes_house_above_the_migh_89d9a9ea-d489-4dcc-99f1-ef680afb1138.png",
+      "similar_images": [
+        "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_view_of_Mies_van_der_Rohes_house_above_the_migh_2ea129c7-5321-4adb-849f-480e46981414.png"
+      ]
+    },
+    "92ad98d64ce2e563": {
+      "original": "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_view_of_Mies_van_der_Rohes_house_above_the_migh_da2f6487-c0f4-4885-ba24-026b437492f5.png",
+      "similar_images": [
+        "E:\\4. Midjourney\\Midjourney 1\\yeosanggu5790_A_view_of_Mies_van_der_Rohes_house_above_the_mi_48139a12-2054-4edd-9543-5fd00dc52de3_0.png"
+      ]
+    },
+    "aa634d5d57ab0649": {
+      "original": "E:\\4. Midjourney\\Midjourney 3\\제목 없음.png",
+      "similar_images": [
+        "E:\\4. Midjourney\\Midjourney 3\\Firefly Design a luxurious restaurant with perfect architecture that suits the space next to the thi.jpg"
+      ]
+    }
+  }
+}

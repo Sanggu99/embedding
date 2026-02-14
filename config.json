@@ -1,0 +1,29 @@
+{
+  "gemini_api_key": "AIzaSyCahrdW3NG8MC-YUFkRTn0i8v4p3N40H-I",
+  "source_folders": [
+    "E:\\4. Midjourney\\Midjourney 1",
+    "E:\\4. Midjourney\\Midjourney 2",
+    "E:\\4. Midjourney\\Midjourney 3",
+    "E:\\4. Midjourney\\Midjourney 4",
+    "E:\\4. Midjourney\\Midjourney 5",
+    "E:\\4. Midjourney\\Midjourney 6",
+    "E:\\4. Midjourney\\Midjourney 7",
+    "E:\\4. Midjourney\\Midjourney 8"
+  ],
+  "output_dir": "E:\\4. Midjourney\\architecture-reference-site",
+  "backup_dir": "E:\\4. Midjourney\\architecture-reference-site\\backup",
+  "thumbnails_dir": "E:\\4. Midjourney\\architecture-reference-site\\thumbnails",
+  "duplicate_handling": "backup_and_delete",
+  "thumbnail_sizes": {
+    "small": 400,
+    "medium": 800,
+    "large": 1200
+  },
+  "image_extensions": [
+    ".png",
+    ".jpg",
+    ".jpeg",
+    ".webp"
+  ],
+  "perceptual_hash_threshold": 10
+}
